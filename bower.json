@@ -1,0 +1,23 @@
+{
+  "name": "am-link",
+  "homepage": "https://github.com/VinSpee/am-link",
+  "authors": [
+    "Vince Speelman <v@vinspee.me>"
+  ],
+  "description": "CSS Link utilities",
+  "main": "index.css",
+  "keywords": [
+    "css",
+    "am-css",
+    "amcss",
+    "suit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
